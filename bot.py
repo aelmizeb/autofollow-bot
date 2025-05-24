@@ -15,15 +15,18 @@ from logging.handlers import RotatingFileHandler
 load_dotenv()
 
 # Load environment variables
-GITHUB_USER = os.getenv('GITHUB_USER')
+GH_USER = os.getenv('GH_USER')
 PERSONAL_GITHUB_TOKEN = os.getenv('PERSONAL_GITHUB_TOKEN')
 
-if not GITHUB_USER or not PERSONAL_GITHUB_TOKEN:
-    raise EnvironmentError("Please set both 'GITHUB_USER' and 'PERSONAL_GITHUB_TOKEN' in your environment variables.")
+if not GH_USER:
+    raise EnvironmentError("Please set 'GH_USER' in your environment variables.")
+
+if not PERSONAL_GITHUB_TOKEN:
+    raise EnvironmentError("Please set 'PERSONAL_GITHUB_TOKEN' in your environment variables.")
 
 # GitHub API endpoints
 PER_PAGE = 100  # Maximum number of followers per page
-FOLLOWERS_URL_TEMPLATE = f'https://api.github.com/users/{GITHUB_USER}/followers?per_page={PER_PAGE}&page={{}}'
+FOLLOWERS_URL_TEMPLATE = f'https://api.github.com/users/{GH_USER}/followers?per_page={PER_PAGE}&page={{}}'
 FOLLOW_USER_URL_TEMPLATE = 'https://api.github.com/user/following/{}'
 
 # File paths

@@ -10,7 +10,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Configuration Constants
-GITHUB_USER = os.getenv('GITHUB_USER')  # Your GitHub username
+GITHUB_USER = os.getenv('GH_USER')  # Your GitHub username
 PERSONAL_GITHUB_TOKEN = os.getenv('PERSONAL_GITHUB_TOKEN')  # Your personal access token
 
 # Validate configuration

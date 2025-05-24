@@ -15,15 +15,18 @@ import time
 load_dotenv()
 
 # Retrieve GitHub credentials from environment variables
-GITHUB_USER = os.getenv('GITHUB_USER')
+GH_USER = os.getenv('GH_USER')
 PERSONAL_GITHUB_TOKEN = os.getenv('PERSONAL_GITHUB_TOKEN')
 
-if not GITHUB_USER or not PERSONAL_GITHUB_TOKEN:
-    raise EnvironmentError("Please set both 'GITHUB_USER' and 'PERSONAL_GITHUB_TOKEN' in your .env file.")
+if not GH_USER:
+    raise EnvironmentError("Please set 'GH_USER' in your environment variables.")
+
+if not PERSONAL_GITHUB_TOKEN:
+    raise EnvironmentError("Please set 'PERSONAL_GITHUB_TOKEN' in your environment variables.")
 
 # GitHub API endpoints
 API_BASE_URL = 'https://api.github.com'
-FOLLOWERS_ENDPOINT = f'{API_BASE_URL}/users/{GITHUB_USER}/followers'
+FOLLOWERS_ENDPOINT = f'{API_BASE_URL}/users/{GH_USER}/followers'
 RATE_LIMIT_ENDPOINT = f'{API_BASE_URL}/rate_limit'
 UPDATE_FOLLOWED_USER_ENDPOINT = f'{API_BASE_URL}/user/following/{{}}'  # Not used in this script
 

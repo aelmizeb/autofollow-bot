@@ -15,7 +15,7 @@
      runs-on: ubuntu-latest
 
      env:
-       GITHUB_USER: aelmizeb
+       GH_USER: aelmizeb
        PERSONAL_GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
 
      steps:
@@ -57,8 +57,8 @@
 
        - name: Run Follower Bot
          env:
-           GITHUB_USER: aelmizeb
-           PERSONAL_GITHUB_TOKEN: ${{ env.PERSONAL_GITHUB_TOKEN }}
+           GH_USER: aelmizeb
+           PERSONAL_GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
          run: pipenv run python bot.py
 
        - name: Commit and Push Changes
