@@ -1,0 +1,100 @@
+2025-05-24 15:42:55,332 - INFO - Hi! I am GitHub Follower Bot.
+2025-05-24 15:42:55,332 - INFO - Letting you follow all your followers!
+2025-05-24 15:42:55,332 - INFO - Starting to fetch your follower lists...
+
+2025-05-24 15:42:55,332 - INFO - Loaded 0 already followed users.
+2025-05-24 15:42:55,332 - INFO - Processing all followers without resume.
+2025-05-24 15:42:55,332 - INFO - Starting from page: 1
+2025-05-24 15:42:55,332 - INFO - Current follower counter: 0
+2025-05-24 15:42:55,484 - INFO - Rate Limit - Remaining: 4955, Reset at: 2025-05-24 15:49:35
+2025-05-24 15:42:55,485 - INFO - Fetching followers from: https://api.github.com/users/aelmizeb/followers?per_page=100&page=1
+2025-05-24 15:42:55,605 - DEBUG - Number of followers fetched: 16
+2025-05-24 15:42:55,605 - INFO - Fetched 16 followers on page 1.
+2025-05-24 15:42:55,605 - INFO - Sleeping for 5 seconds before following users.
+2025-05-24 15:43:00,610 - INFO - Attempting to follow user: ThomasHWeb
+2025-05-24 15:43:00,780 - INFO - Successfully followed user: ThomasHWeb
+2025-05-24 15:43:00,781 - DEBUG - Appended user ThomasHWeb to followers.txt.
+2025-05-24 15:43:00,781 - INFO - Follower counter updated: 1
+2025-05-24 15:43:00,782 - INFO - Sleeping for 14.10 seconds before the next follow.
+2025-05-24 15:43:14,897 - INFO - Attempting to follow user: hitman0290
+2025-05-24 15:43:15,037 - INFO - Successfully followed user: hitman0290
+2025-05-24 15:43:15,038 - DEBUG - Appended user hitman0290 to followers.txt.
+2025-05-24 15:43:15,038 - INFO - Follower counter updated: 2
+2025-05-24 15:43:15,038 - INFO - Sleeping for 10.92 seconds before the next follow.
+2025-05-24 15:43:25,971 - INFO - Attempting to follow user: medmek
+2025-05-24 15:43:26,101 - INFO - Successfully followed user: medmek
+2025-05-24 15:43:26,102 - DEBUG - Appended user medmek to followers.txt.
+2025-05-24 15:43:26,102 - INFO - Follower counter updated: 3
+2025-05-24 15:43:26,102 - INFO - Sleeping for 12.19 seconds before the next follow.
+2025-05-24 15:43:38,308 - INFO - Attempting to follow user: IDouble
+2025-05-24 15:43:38,435 - INFO - Successfully followed user: IDouble
+2025-05-24 15:43:38,436 - DEBUG - Appended user IDouble to followers.txt.
+2025-05-24 15:43:38,436 - INFO - Follower counter updated: 4
+2025-05-24 15:43:38,436 - INFO - Sleeping for 12.64 seconds before the next follow.
+2025-05-24 15:43:51,091 - INFO - Attempting to follow user: djvelimir
+2025-05-24 15:43:51,413 - INFO - Successfully followed user: djvelimir
+2025-05-24 15:43:51,414 - DEBUG - Appended user djvelimir to followers.txt.
+2025-05-24 15:43:51,414 - INFO - Follower counter updated: 5
+2025-05-24 15:43:51,414 - INFO - Sleeping for 10.27 seconds before the next follow.
+2025-05-24 15:44:01,696 - INFO - Attempting to follow user: sungeer
+2025-05-24 15:44:01,839 - INFO - Successfully followed user: sungeer
+2025-05-24 15:44:01,840 - DEBUG - Appended user sungeer to followers.txt.
+2025-05-24 15:44:01,840 - INFO - Follower counter updated: 6
+2025-05-24 15:44:01,840 - INFO - Sleeping for 12.26 seconds before the next follow.
+2025-05-24 15:44:14,114 - INFO - Attempting to follow user: JohnMwendwa
+2025-05-24 15:44:14,238 - INFO - Successfully followed user: JohnMwendwa
+2025-05-24 15:44:14,239 - DEBUG - Appended user JohnMwendwa to followers.txt.
+2025-05-24 15:44:14,239 - INFO - Follower counter updated: 7
+2025-05-24 15:44:14,239 - INFO - Sleeping for 10.06 seconds before the next follow.
+2025-05-24 15:44:24,313 - INFO - Attempting to follow user: OftenUser
+2025-05-24 15:44:24,457 - INFO - Successfully followed user: OftenUser
+2025-05-24 15:44:24,457 - DEBUG - Appended user OftenUser to followers.txt.
+2025-05-24 15:44:24,458 - INFO - Follower counter updated: 8
+2025-05-24 15:44:24,458 - INFO - Sleeping for 10.38 seconds before the next follow.
+2025-05-24 15:44:34,850 - INFO - Attempting to follow user: cgrundman
+2025-05-24 15:44:34,985 - INFO - Successfully followed user: cgrundman
+2025-05-24 15:44:34,986 - DEBUG - Appended user cgrundman to followers.txt.
+2025-05-24 15:44:34,987 - INFO - Follower counter updated: 9
+2025-05-24 15:44:34,987 - INFO - Sleeping for 11.21 seconds before the next follow.
+2025-05-24 15:44:46,203 - INFO - Attempting to follow user: Nima-Mollaei
+2025-05-24 15:44:46,331 - INFO - Successfully followed user: Nima-Mollaei
+2025-05-24 15:44:46,332 - DEBUG - Appended user Nima-Mollaei to followers.txt.
+2025-05-24 15:44:46,332 - INFO - Follower counter updated: 10
+2025-05-24 15:44:46,332 - INFO - Sleeping for 13.44 seconds before the next follow.
+2025-05-24 15:44:59,782 - INFO - Attempting to follow user: DIMFLIX
+2025-05-24 15:44:59,913 - INFO - Successfully followed user: DIMFLIX
+2025-05-24 15:44:59,914 - DEBUG - Appended user DIMFLIX to followers.txt.
+2025-05-24 15:44:59,915 - INFO - Follower counter updated: 11
+2025-05-24 15:44:59,915 - INFO - Sleeping for 12.64 seconds before the next follow.
+2025-05-24 15:45:12,564 - INFO - Attempting to follow user: rahmantamim11
+2025-05-24 15:45:12,766 - INFO - Successfully followed user: rahmantamim11
+2025-05-24 15:45:12,767 - DEBUG - Appended user rahmantamim11 to followers.txt.
+2025-05-24 15:45:12,767 - INFO - Follower counter updated: 12
+2025-05-24 15:45:12,767 - INFO - Sleeping for 10.70 seconds before the next follow.
+2025-05-24 15:45:23,476 - INFO - Attempting to follow user: mbahomaid
+2025-05-24 15:45:23,602 - INFO - Successfully followed user: mbahomaid
+2025-05-24 15:45:23,603 - DEBUG - Appended user mbahomaid to followers.txt.
+2025-05-24 15:45:23,603 - INFO - Follower counter updated: 13
+2025-05-24 15:45:23,603 - INFO - Sleeping for 10.96 seconds before the next follow.
+2025-05-24 15:45:34,571 - INFO - Attempting to follow user: d3v1sh
+2025-05-24 15:45:34,701 - INFO - Successfully followed user: d3v1sh
+2025-05-24 15:45:34,702 - DEBUG - Appended user d3v1sh to followers.txt.
+2025-05-24 15:45:34,702 - INFO - Follower counter updated: 14
+2025-05-24 15:45:34,702 - INFO - Sleeping for 13.98 seconds before the next follow.
+2025-05-24 15:45:48,695 - INFO - Attempting to follow user: Dev-Mania1988
+2025-05-24 15:45:48,815 - INFO - Successfully followed user: Dev-Mania1988
+2025-05-24 15:45:48,816 - DEBUG - Appended user Dev-Mania1988 to followers.txt.
+2025-05-24 15:45:48,816 - INFO - Follower counter updated: 15
+2025-05-24 15:45:48,816 - INFO - Sleeping for 12.15 seconds before the next follow.
+2025-05-24 15:46:00,981 - INFO - Attempting to follow user: BOYABOY999
+2025-05-24 15:46:01,102 - INFO - Successfully followed user: BOYABOY999
+2025-05-24 15:46:01,102 - DEBUG - Appended user BOYABOY999 to followers.txt.
+2025-05-24 15:46:01,103 - INFO - Follower counter updated: 16
+2025-05-24 15:46:01,103 - INFO - Sleeping for 10.34 seconds before the next follow.
+2025-05-24 15:46:11,581 - INFO - Rate Limit - Remaining: 4938, Reset at: 2025-05-24 15:49:35
+2025-05-24 15:46:11,582 - INFO - Fetching followers from: https://api.github.com/users/aelmizeb/followers?per_page=100&page=2
+2025-05-24 15:46:11,707 - DEBUG - Number of followers fetched: 0
+2025-05-24 15:46:11,707 - INFO - No more followers to process. Exiting.
+2025-05-24 15:46:11,708 - INFO - Follower counter updated: 16
+2025-05-24 15:46:11,708 - INFO - 
+Following users from your follower list is done! Total followers fetched: 16, Total followers followed: 16
