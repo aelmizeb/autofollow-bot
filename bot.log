@@ -144,3 +144,49 @@ Following users from your follower list is done! Total followers fetched: 16, To
 2025-05-25 00:58:57,246 - INFO - Follower counter updated: 18
 2025-05-25 00:58:57,246 - INFO - 
 Following users from your follower list is done! Total followers fetched: 18, Total followers followed: 18
+2025-05-26 00:55:13,144 - INFO - Hi! I am GitHub Follower Bot.
+2025-05-26 00:55:13,144 - INFO - Letting you follow all your followers!
+2025-05-26 00:55:13,144 - INFO - Starting to fetch your follower lists...
+
+2025-05-26 00:55:13,144 - INFO - Loaded 18 already followed users.
+2025-05-26 00:55:13,144 - INFO - Processing all followers without resume.
+2025-05-26 00:55:13,145 - INFO - Starting from page: 1
+2025-05-26 00:55:13,145 - INFO - Current follower counter: 18
+2025-05-26 00:55:13,232 - INFO - Rate Limit - Remaining: 5000, Reset at: 2025-05-26 01:55:13
+2025-05-26 00:55:13,233 - INFO - Fetching followers from: https://api.github.com/users/aelmizeb/followers?per_page=100&page=1
+2025-05-26 00:55:13,320 - DEBUG - Number of followers fetched: 18
+2025-05-26 00:55:13,320 - INFO - Fetched 18 followers on page 1.
+2025-05-26 00:55:13,320 - INFO - Sleeping for 5 seconds before following users.
+2025-05-26 00:55:18,325 - DEBUG - Already followed user: ThomasHWeb. Skipping.
+2025-05-26 00:55:18,326 - DEBUG - Already followed user: hitman0290. Skipping.
+2025-05-26 00:55:18,326 - DEBUG - Already followed user: medmek. Skipping.
+2025-05-26 00:55:18,326 - DEBUG - Already followed user: IDouble. Skipping.
+2025-05-26 00:55:18,326 - DEBUG - Already followed user: djvelimir. Skipping.
+2025-05-26 00:55:18,326 - DEBUG - Already followed user: sungeer. Skipping.
+2025-05-26 00:55:18,326 - INFO - Attempting to follow user: Vocula
+2025-05-26 00:55:18,501 - INFO - Successfully followed user: Vocula
+2025-05-26 00:55:18,502 - DEBUG - Appended user Vocula to followers.txt.
+2025-05-26 00:55:18,502 - INFO - Follower counter updated: 19
+2025-05-26 00:55:18,502 - INFO - Sleeping for 14.40 seconds before the next follow.
+2025-05-26 00:55:32,920 - DEBUG - Already followed user: JohnMwendwa. Skipping.
+2025-05-26 00:55:32,920 - DEBUG - Already followed user: OftenUser. Skipping.
+2025-05-26 00:55:32,920 - DEBUG - Already followed user: cgrundman. Skipping.
+2025-05-26 00:55:32,920 - DEBUG - Already followed user: Nima-Mollaei. Skipping.
+2025-05-26 00:55:32,920 - INFO - Attempting to follow user: iamapuneet
+2025-05-26 00:55:33,067 - INFO - Successfully followed user: iamapuneet
+2025-05-26 00:55:33,068 - DEBUG - Appended user iamapuneet to followers.txt.
+2025-05-26 00:55:33,068 - INFO - Follower counter updated: 20
+2025-05-26 00:55:33,068 - INFO - Sleeping for 13.13 seconds before the next follow.
+2025-05-26 00:55:46,207 - DEBUG - Already followed user: DIMFLIX. Skipping.
+2025-05-26 00:55:46,207 - DEBUG - Already followed user: rahmantamim11. Skipping.
+2025-05-26 00:55:46,207 - DEBUG - Already followed user: abdulrhmansalama. Skipping.
+2025-05-26 00:55:46,207 - DEBUG - Already followed user: d3v1sh. Skipping.
+2025-05-26 00:55:46,207 - DEBUG - Already followed user: Dev-Mania1988. Skipping.
+2025-05-26 00:55:46,207 - DEBUG - Already followed user: BOYABOY999. Skipping.
+2025-05-26 00:55:46,294 - INFO - Rate Limit - Remaining: 4997, Reset at: 2025-05-26 01:55:13
+2025-05-26 00:55:46,294 - INFO - Fetching followers from: https://api.github.com/users/aelmizeb/followers?per_page=100&page=2
+2025-05-26 00:55:46,374 - DEBUG - Number of followers fetched: 0
+2025-05-26 00:55:46,374 - INFO - No more followers to process. Exiting.
+2025-05-26 00:55:46,374 - INFO - Follower counter updated: 20
+2025-05-26 00:55:46,375 - INFO - 
+Following users from your follower list is done! Total followers fetched: 18, Total followers followed: 20
