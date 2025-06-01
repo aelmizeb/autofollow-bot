@@ -503,3 +503,72 @@ Following users from your follower list is done! Total followers fetched: 34, To
 2025-05-31 00:52:57,169 - INFO - Follower counter updated: 37
 2025-05-31 00:52:57,169 - INFO - 
 Following users from your follower list is done! Total followers fetched: 34, Total followers followed: 37
+2025-06-01 01:05:02,509 - INFO - Hi! I am GitHub Follower Bot.
+2025-06-01 01:05:02,509 - INFO - Letting you follow all your followers!
+2025-06-01 01:05:02,509 - INFO - Starting to fetch your follower lists...
+
+2025-06-01 01:05:02,509 - INFO - Loaded 37 already followed users.
+2025-06-01 01:05:02,509 - INFO - Processing all followers without resume.
+2025-06-01 01:05:02,510 - INFO - Starting from page: 1
+2025-06-01 01:05:02,510 - INFO - Current follower counter: 37
+2025-06-01 01:05:02,701 - INFO - Rate Limit - Remaining: 5000, Reset at: 2025-06-01 02:05:02
+2025-06-01 01:05:02,703 - INFO - Fetching followers from: https://api.github.com/users/aelmizeb/followers?per_page=100&page=1
+2025-06-01 01:05:02,905 - DEBUG - Number of followers fetched: 37
+2025-06-01 01:05:02,905 - INFO - Fetched 37 followers on page 1.
+2025-06-01 01:05:02,905 - INFO - Sleeping for 5 seconds before following users.
+2025-06-01 01:05:07,910 - DEBUG - Already followed user: murapadev. Skipping.
+2025-06-01 01:05:07,910 - DEBUG - Already followed user: ThomasHWeb. Skipping.
+2025-06-01 01:05:07,910 - DEBUG - Already followed user: hitman0290. Skipping.
+2025-06-01 01:05:07,910 - DEBUG - Already followed user: medmek. Skipping.
+2025-06-01 01:05:07,911 - DEBUG - Already followed user: IDouble. Skipping.
+2025-06-01 01:05:07,911 - DEBUG - Already followed user: djvelimir. Skipping.
+2025-06-01 01:05:07,911 - DEBUG - Already followed user: sungeer. Skipping.
+2025-06-01 01:05:07,911 - DEBUG - Already followed user: nstrmx. Skipping.
+2025-06-01 01:05:07,911 - DEBUG - Already followed user: Kos-M. Skipping.
+2025-06-01 01:05:07,911 - DEBUG - Already followed user: jfullstackdev. Skipping.
+2025-06-01 01:05:07,911 - DEBUG - Already followed user: JohnMwendwa. Skipping.
+2025-06-01 01:05:07,911 - DEBUG - Already followed user: OftenUser. Skipping.
+2025-06-01 01:05:07,911 - INFO - Attempting to follow user: Jailtonfonseca
+2025-06-01 01:05:08,154 - INFO - Successfully followed user: Jailtonfonseca
+2025-06-01 01:05:08,155 - DEBUG - Appended user Jailtonfonseca to followers.txt.
+2025-06-01 01:05:08,155 - INFO - Follower counter updated: 38
+2025-06-01 01:05:08,155 - INFO - Sleeping for 10.39 seconds before the next follow.
+2025-06-01 01:05:18,560 - DEBUG - Already followed user: cgrundman. Skipping.
+2025-06-01 01:05:18,560 - DEBUG - Already followed user: elifirinci. Skipping.
+2025-06-01 01:05:18,560 - DEBUG - Already followed user: Nima-Mollaei. Skipping.
+2025-06-01 01:05:18,560 - INFO - Attempting to follow user: THEHARSHALCHAUDHARI
+2025-06-01 01:05:18,822 - INFO - Successfully followed user: THEHARSHALCHAUDHARI
+2025-06-01 01:05:18,823 - DEBUG - Appended user THEHARSHALCHAUDHARI to followers.txt.
+2025-06-01 01:05:18,824 - INFO - Follower counter updated: 39
+2025-06-01 01:05:18,824 - INFO - Sleeping for 11.32 seconds before the next follow.
+2025-06-01 01:05:30,157 - DEBUG - Already followed user: iamapuneet. Skipping.
+2025-06-01 01:05:30,157 - DEBUG - Already followed user: Souvik-Rana. Skipping.
+2025-06-01 01:05:30,157 - DEBUG - Already followed user: DIMFLIX. Skipping.
+2025-06-01 01:05:30,157 - DEBUG - Already followed user: rahmantamim11. Skipping.
+2025-06-01 01:05:30,157 - DEBUG - Already followed user: 18KRedApple. Skipping.
+2025-06-01 01:05:30,157 - DEBUG - Already followed user: antnose. Skipping.
+2025-06-01 01:05:30,157 - DEBUG - Already followed user: Laqrabti. Skipping.
+2025-06-01 01:05:30,157 - DEBUG - Already followed user: B2Kumar03. Skipping.
+2025-06-01 01:05:30,157 - DEBUG - Already followed user: LakhiniVoshadee. Skipping.
+2025-06-01 01:05:30,157 - DEBUG - Already followed user: abdulrhmansalama. Skipping.
+2025-06-01 01:05:30,158 - DEBUG - Already followed user: jisan-05. Skipping.
+2025-06-01 01:05:30,158 - DEBUG - Already followed user: 0joseDark. Skipping.
+2025-06-01 01:05:30,158 - DEBUG - Already followed user: mbahomaid. Skipping.
+2025-06-01 01:05:30,158 - DEBUG - Already followed user: siddhantshukla108. Skipping.
+2025-06-01 01:05:30,158 - DEBUG - Already followed user: techEdge3030. Skipping.
+2025-06-01 01:05:30,158 - INFO - Attempting to follow user: Nayeem0011
+2025-06-01 01:05:30,440 - INFO - Successfully followed user: Nayeem0011
+2025-06-01 01:05:30,442 - DEBUG - Appended user Nayeem0011 to followers.txt.
+2025-06-01 01:05:30,442 - INFO - Follower counter updated: 40
+2025-06-01 01:05:30,442 - INFO - Sleeping for 10.03 seconds before the next follow.
+2025-06-01 01:05:40,480 - DEBUG - Already followed user: Twizter01. Skipping.
+2025-06-01 01:05:40,481 - DEBUG - Already followed user: d3v1sh. Skipping.
+2025-06-01 01:05:40,481 - DEBUG - Already followed user: Dev-Mania1988. Skipping.
+2025-06-01 01:05:40,481 - DEBUG - Already followed user: BOYABOY999. Skipping.
+2025-06-01 01:05:40,659 - INFO - Rate Limit - Remaining: 4996, Reset at: 2025-06-01 02:05:02
+2025-06-01 01:05:40,660 - INFO - Fetching followers from: https://api.github.com/users/aelmizeb/followers?per_page=100&page=2
+2025-06-01 01:05:40,858 - DEBUG - Number of followers fetched: 0
+2025-06-01 01:05:40,858 - INFO - No more followers to process. Exiting.
+2025-06-01 01:05:40,858 - INFO - Follower counter updated: 40
+2025-06-01 01:05:40,858 - INFO - 
+Following users from your follower list is done! Total followers fetched: 37, Total followers followed: 40
