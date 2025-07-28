@@ -6596,3 +6596,155 @@ Following users from your follower list is done! Total followers fetched: 115, T
 2025-07-27 01:04:15,509 - INFO - Follower counter updated: 152
 2025-07-27 01:04:15,509 - INFO - 
 Following users from your follower list is done! Total followers fetched: 117, Total followers followed: 152
+2025-07-28 01:02:27,988 - INFO - Hi! I am GitHub Follower Bot.
+2025-07-28 01:02:27,988 - INFO - Letting you follow all your followers!
+2025-07-28 01:02:27,988 - INFO - Starting to fetch your follower lists...
+
+2025-07-28 01:02:27,988 - INFO - Loaded 152 already followed users.
+2025-07-28 01:02:27,988 - INFO - Processing all followers without resume.
+2025-07-28 01:02:27,988 - INFO - Starting from page: 1
+2025-07-28 01:02:27,989 - INFO - Current follower counter: 152
+2025-07-28 01:02:28,119 - INFO - Rate Limit - Remaining: 5000, Reset at: 2025-07-28 02:02:28
+2025-07-28 01:02:28,120 - INFO - Fetching followers from: https://api.github.com/users/aelmizeb/followers?per_page=100&page=1
+2025-07-28 01:02:28,250 - DEBUG - Number of followers fetched: 100
+2025-07-28 01:02:28,250 - INFO - Fetched 100 followers on page 1.
+2025-07-28 01:02:28,250 - INFO - Sleeping for 5 seconds before following users.
+2025-07-28 01:02:33,255 - DEBUG - Already followed user: kenjinote. Skipping.
+2025-07-28 01:02:33,255 - DEBUG - Already followed user: sarkarshuvojit. Skipping.
+2025-07-28 01:02:33,255 - DEBUG - Already followed user: jjfhwang. Skipping.
+2025-07-28 01:02:33,255 - DEBUG - Already followed user: gamemann. Skipping.
+2025-07-28 01:02:33,256 - DEBUG - Already followed user: riseansmal. Skipping.
+2025-07-28 01:02:33,256 - DEBUG - Already followed user: murapadev. Skipping.
+2025-07-28 01:02:33,256 - DEBUG - Already followed user: Hackinet. Skipping.
+2025-07-28 01:02:33,256 - DEBUG - Already followed user: ThomasHWeb. Skipping.
+2025-07-28 01:02:33,256 - DEBUG - Already followed user: hitman209. Skipping.
+2025-07-28 01:02:33,256 - DEBUG - Already followed user: medmek. Skipping.
+2025-07-28 01:02:33,256 - DEBUG - Already followed user: IDouble. Skipping.
+2025-07-28 01:02:33,256 - DEBUG - Already followed user: djvelimir. Skipping.
+2025-07-28 01:02:33,256 - DEBUG - Already followed user: guevaraStian. Skipping.
+2025-07-28 01:02:33,256 - DEBUG - Already followed user: visualGravitySense. Skipping.
+2025-07-28 01:02:33,256 - DEBUG - Already followed user: sungeer. Skipping.
+2025-07-28 01:02:33,256 - DEBUG - Already followed user: wilfrid51. Skipping.
+2025-07-28 01:02:33,256 - INFO - Attempting to follow user: Connor9994
+2025-07-28 01:02:33,463 - INFO - Successfully followed user: Connor9994
+2025-07-28 01:02:33,464 - DEBUG - Appended user Connor9994 to followers.txt.
+2025-07-28 01:02:33,464 - INFO - Follower counter updated: 153
+2025-07-28 01:02:33,464 - INFO - Sleeping for 10.37 seconds before the next follow.
+2025-07-28 01:02:43,845 - DEBUG - Already followed user: standardgalactic. Skipping.
+2025-07-28 01:02:43,845 - DEBUG - Already followed user: 88qji. Skipping.
+2025-07-28 01:02:43,845 - DEBUG - Already followed user: nstrmx. Skipping.
+2025-07-28 01:02:43,845 - DEBUG - Already followed user: Kos-M. Skipping.
+2025-07-28 01:02:43,845 - DEBUG - Already followed user: jfullstackdev. Skipping.
+2025-07-28 01:02:43,845 - DEBUG - Already followed user: TuRuSkT11. Skipping.
+2025-07-28 01:02:43,845 - DEBUG - Already followed user: BEPb. Skipping.
+2025-07-28 01:02:43,845 - DEBUG - Already followed user: tm-0430. Skipping.
+2025-07-28 01:02:43,845 - DEBUG - Already followed user: oluiscabral. Skipping.
+2025-07-28 01:02:43,845 - INFO - Attempting to follow user: marcmotta
+2025-07-28 01:02:44,020 - INFO - Successfully followed user: marcmotta
+2025-07-28 01:02:44,021 - DEBUG - Appended user marcmotta to followers.txt.
+2025-07-28 01:02:44,021 - INFO - Follower counter updated: 154
+2025-07-28 01:02:44,021 - INFO - Sleeping for 10.12 seconds before the next follow.
+2025-07-28 01:02:54,148 - DEBUG - Already followed user: hajigur69. Skipping.
+2025-07-28 01:02:54,148 - DEBUG - Already followed user: ewhu. Skipping.
+2025-07-28 01:02:54,148 - DEBUG - Already followed user: mainstar123. Skipping.
+2025-07-28 01:02:54,148 - DEBUG - Already followed user: JohnMwendwa. Skipping.
+2025-07-28 01:02:54,148 - DEBUG - Already followed user: ramazancetinkaya. Skipping.
+2025-07-28 01:02:54,148 - DEBUG - Already followed user: OftenUser. Skipping.
+2025-07-28 01:02:54,148 - DEBUG - Already followed user: mohammadhasanii. Skipping.
+2025-07-28 01:02:54,148 - DEBUG - Already followed user: mbitujames. Skipping.
+2025-07-28 01:02:54,148 - DEBUG - Already followed user: helallao. Skipping.
+2025-07-28 01:02:54,149 - DEBUG - Already followed user: Jailtonfonseca. Skipping.
+2025-07-28 01:02:54,149 - DEBUG - Already followed user: otsupom. Skipping.
+2025-07-28 01:02:54,149 - DEBUG - Already followed user: seckinyasar. Skipping.
+2025-07-28 01:02:54,149 - DEBUG - Already followed user: Shinbatsu. Skipping.
+2025-07-28 01:02:54,149 - DEBUG - Already followed user: Davidevlops. Skipping.
+2025-07-28 01:02:54,149 - DEBUG - Already followed user: ezozu. Skipping.
+2025-07-28 01:02:54,149 - DEBUG - Already followed user: cgrundman. Skipping.
+2025-07-28 01:02:54,149 - DEBUG - Already followed user: heinodendal. Skipping.
+2025-07-28 01:02:54,149 - DEBUG - Already followed user: elifirinci. Skipping.
+2025-07-28 01:02:54,149 - DEBUG - Already followed user: Nima-Mollaei. Skipping.
+2025-07-28 01:02:54,149 - DEBUG - Already followed user: apurva313. Skipping.
+2025-07-28 01:02:54,149 - DEBUG - Already followed user: kyiroywops. Skipping.
+2025-07-28 01:02:54,149 - DEBUG - Already followed user: THEHARSHALCHAUDHARI. Skipping.
+2025-07-28 01:02:54,149 - DEBUG - Already followed user: iamapuneet. Skipping.
+2025-07-28 01:02:54,149 - DEBUG - Already followed user: Suhaib3100. Skipping.
+2025-07-28 01:02:54,149 - DEBUG - Already followed user: souvikrana17. Skipping.
+2025-07-28 01:02:54,149 - DEBUG - Already followed user: DIMFLIX. Skipping.
+2025-07-28 01:02:54,149 - DEBUG - Already followed user: Motaman-M. Skipping.
+2025-07-28 01:02:54,149 - DEBUG - Already followed user: cepseu1. Skipping.
+2025-07-28 01:02:54,149 - DEBUG - Already followed user: Mubashir12392. Skipping.
+2025-07-28 01:02:54,149 - DEBUG - Already followed user: ACT91. Skipping.
+2025-07-28 01:02:54,149 - DEBUG - Already followed user: K1rsN7. Skipping.
+2025-07-28 01:02:54,149 - DEBUG - Already followed user: MatthewMacri. Skipping.
+2025-07-28 01:02:54,149 - DEBUG - Already followed user: devddine. Skipping.
+2025-07-28 01:02:54,149 - DEBUG - Already followed user: mateoguerra0315. Skipping.
+2025-07-28 01:02:54,149 - DEBUG - Already followed user: Laqrabti. Skipping.
+2025-07-28 01:02:54,149 - DEBUG - Already followed user: AhmadTigress. Skipping.
+2025-07-28 01:02:54,149 - DEBUG - Already followed user: B2Kumar03. Skipping.
+2025-07-28 01:02:54,149 - DEBUG - Already followed user: AmirPeyravan. Skipping.
+2025-07-28 01:02:54,149 - DEBUG - Already followed user: nuraisi. Skipping.
+2025-07-28 01:02:54,149 - DEBUG - Already followed user: marichu-kt. Skipping.
+2025-07-28 01:02:54,149 - DEBUG - Already followed user: codewithdhruba01. Skipping.
+2025-07-28 01:02:54,150 - DEBUG - Already followed user: SalehAkramSifat. Skipping.
+2025-07-28 01:02:54,150 - DEBUG - Already followed user: mengnankkkk. Skipping.
+2025-07-28 01:02:54,150 - DEBUG - Already followed user: LakhiniVoshadee. Skipping.
+2025-07-28 01:02:54,150 - DEBUG - Already followed user: cfrBernard. Skipping.
+2025-07-28 01:02:54,150 - DEBUG - Already followed user: Arison99. Skipping.
+2025-07-28 01:02:54,150 - DEBUG - Already followed user: abdulrhmansalama. Skipping.
+2025-07-28 01:02:54,150 - DEBUG - Already followed user: GitHub7667. Skipping.
+2025-07-28 01:02:54,150 - DEBUG - Already followed user: kiranShamsHere. Skipping.
+2025-07-28 01:02:54,150 - DEBUG - Already followed user: BhagwaniVishi. Skipping.
+2025-07-28 01:02:54,150 - DEBUG - Already followed user: 0joseDark. Skipping.
+2025-07-28 01:02:54,150 - DEBUG - Already followed user: aridepai17. Skipping.
+2025-07-28 01:02:54,150 - DEBUG - Already followed user: 20essentials. Skipping.
+2025-07-28 01:02:54,150 - DEBUG - Already followed user: Md-Mubin. Skipping.
+2025-07-28 01:02:54,150 - DEBUG - Already followed user: M-F-Tushar. Skipping.
+2025-07-28 01:02:54,150 - DEBUG - Already followed user: JawherKl. Skipping.
+2025-07-28 01:02:54,150 - DEBUG - Already followed user: Ravi-Dahiya-00. Skipping.
+2025-07-28 01:02:54,150 - DEBUG - Already followed user: thornebaker. Skipping.
+2025-07-28 01:02:54,150 - DEBUG - Already followed user: nexora-w. Skipping.
+2025-07-28 01:02:54,150 - DEBUG - Already followed user: nikhilpatidar01. Skipping.
+2025-07-28 01:02:54,150 - DEBUG - Already followed user: JOELNATHAN544. Skipping.
+2025-07-28 01:02:54,150 - DEBUG - Already followed user: keen71126. Skipping.
+2025-07-28 01:02:54,150 - DEBUG - Already followed user: light-hat. Skipping.
+2025-07-28 01:02:54,150 - DEBUG - Already followed user: MllRAGE. Skipping.
+2025-07-28 01:02:54,150 - DEBUG - Already followed user: MdShawonForazi. Skipping.
+2025-07-28 01:02:54,150 - DEBUG - Already followed user: Baki333634. Skipping.
+2025-07-28 01:02:54,150 - DEBUG - Already followed user: syedbilalalam1. Skipping.
+2025-07-28 01:02:54,150 - DEBUG - Already followed user: Ayokanmi-Adejola. Skipping.
+2025-07-28 01:02:54,150 - DEBUG - Already followed user: zainab0077. Skipping.
+2025-07-28 01:02:54,150 - DEBUG - Already followed user: TechLeon001. Skipping.
+2025-07-28 01:02:54,150 - DEBUG - Already followed user: wecoded-dev. Skipping.
+2025-07-28 01:02:54,150 - DEBUG - Already followed user: PrinceDevWorks. Skipping.
+2025-07-28 01:02:54,150 - DEBUG - Already followed user: techEdge3030. Skipping.
+2025-07-28 01:02:54,294 - INFO - Rate Limit - Remaining: 4997, Reset at: 2025-07-28 02:02:28
+2025-07-28 01:02:54,295 - INFO - Fetching followers from: https://api.github.com/users/aelmizeb/followers?per_page=100&page=2
+2025-07-28 01:02:54,427 - DEBUG - Number of followers fetched: 19
+2025-07-28 01:02:54,428 - INFO - Fetched 19 followers on page 2.
+2025-07-28 01:02:54,428 - INFO - Sleeping for 5 seconds before following users.
+2025-07-28 01:02:59,433 - DEBUG - Already followed user: Nayeem0011. Skipping.
+2025-07-28 01:02:59,433 - DEBUG - Already followed user: Twizter01. Skipping.
+2025-07-28 01:02:59,433 - DEBUG - Already followed user: Piyush64-bit. Skipping.
+2025-07-28 01:02:59,433 - DEBUG - Already followed user: 156afl. Skipping.
+2025-07-28 01:02:59,433 - DEBUG - Already followed user: d3v1sh. Skipping.
+2025-07-28 01:02:59,433 - DEBUG - Already followed user: yosuke-kuroki. Skipping.
+2025-07-28 01:02:59,433 - DEBUG - Already followed user: nelbetancur. Skipping.
+2025-07-28 01:02:59,433 - DEBUG - Already followed user: DULCEH0RROR. Skipping.
+2025-07-28 01:02:59,433 - DEBUG - Already followed user: Lyne6666. Skipping.
+2025-07-28 01:02:59,433 - DEBUG - Already followed user: nafiul-afk. Skipping.
+2025-07-28 01:02:59,433 - DEBUG - Already followed user: ShiningRocket. Skipping.
+2025-07-28 01:02:59,433 - DEBUG - Already followed user: RlCK-SANCHEZ. Skipping.
+2025-07-28 01:02:59,433 - DEBUG - Already followed user: Dev-Mania1988. Skipping.
+2025-07-28 01:02:59,433 - DEBUG - Already followed user: BOYABOY999. Skipping.
+2025-07-28 01:02:59,433 - DEBUG - Already followed user: NOUHABL. Skipping.
+2025-07-28 01:02:59,433 - DEBUG - Already followed user: RamaAditya49. Skipping.
+2025-07-28 01:02:59,433 - DEBUG - Already followed user: rosem-coder. Skipping.
+2025-07-28 01:02:59,434 - DEBUG - Already followed user: XO-Roham. Skipping.
+2025-07-28 01:02:59,434 - DEBUG - Already followed user: NovaNoodle7. Skipping.
+2025-07-28 01:02:59,571 - INFO - Rate Limit - Remaining: 4996, Reset at: 2025-07-28 02:02:28
+2025-07-28 01:02:59,571 - INFO - Fetching followers from: https://api.github.com/users/aelmizeb/followers?per_page=100&page=3
+2025-07-28 01:02:59,710 - DEBUG - Number of followers fetched: 0
+2025-07-28 01:02:59,710 - INFO - No more followers to process. Exiting.
+2025-07-28 01:02:59,710 - INFO - Follower counter updated: 154
+2025-07-28 01:02:59,710 - INFO - 
+Following users from your follower list is done! Total followers fetched: 119, Total followers followed: 154
