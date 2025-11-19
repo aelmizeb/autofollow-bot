@@ -30157,3 +30157,242 @@ Following users from your follower list is done! Total followers fetched: 205, T
 2025-11-18 00:58:27,206 - INFO - Follower counter updated: 336
 2025-11-18 00:58:27,207 - INFO - 
 Following users from your follower list is done! Total followers fetched: 205, Total followers followed: 336
+2025-11-19 00:53:49,963 - INFO - Hi! I am GitHub Follower Bot.
+2025-11-19 00:53:49,964 - INFO - Letting you follow all your followers!
+2025-11-19 00:53:49,964 - INFO - Starting to fetch your follower lists...
+
+2025-11-19 00:53:49,964 - INFO - Loaded 336 already followed users.
+2025-11-19 00:53:49,964 - INFO - Processing all followers without resume.
+2025-11-19 00:53:49,964 - INFO - Starting from page: 1
+2025-11-19 00:53:49,964 - INFO - Current follower counter: 336
+2025-11-19 00:53:50,056 - INFO - Rate Limit - Remaining: 4998, Reset at: 2025-11-19 00:55:53
+2025-11-19 00:53:50,057 - INFO - Fetching followers from: https://api.github.com/users/aelmizeb/followers?per_page=100&page=1
+2025-11-19 00:53:50,172 - DEBUG - Number of followers fetched: 100
+2025-11-19 00:53:50,172 - INFO - Fetched 100 followers on page 1.
+2025-11-19 00:53:50,172 - INFO - Sleeping for 5 seconds before following users.
+2025-11-19 00:53:55,177 - DEBUG - Already followed user: levonk. Skipping.
+2025-11-19 00:53:55,178 - DEBUG - Already followed user: peterruler. Skipping.
+2025-11-19 00:53:55,178 - DEBUG - Already followed user: mehmet-kozan. Skipping.
+2025-11-19 00:53:55,178 - DEBUG - Already followed user: slavaGanzin. Skipping.
+2025-11-19 00:53:55,178 - DEBUG - Already followed user: kenjinote. Skipping.
+2025-11-19 00:53:55,178 - DEBUG - Already followed user: tech4xstar. Skipping.
+2025-11-19 00:53:55,178 - DEBUG - Already followed user: sarkarshuvojit. Skipping.
+2025-11-19 00:53:55,178 - DEBUG - Already followed user: unhappychoice. Skipping.
+2025-11-19 00:53:55,178 - DEBUG - Already followed user: gamemann. Skipping.
+2025-11-19 00:53:55,178 - DEBUG - Already followed user: riseansmal. Skipping.
+2025-11-19 00:53:55,178 - DEBUG - Already followed user: seehiong. Skipping.
+2025-11-19 00:53:55,178 - DEBUG - Already followed user: manman4. Skipping.
+2025-11-19 00:53:55,178 - DEBUG - Already followed user: KylerCondran. Skipping.
+2025-11-19 00:53:55,178 - DEBUG - Already followed user: ZhuChenn. Skipping.
+2025-11-19 00:53:55,178 - DEBUG - Already followed user: Elbagoury. Skipping.
+2025-11-19 00:53:55,178 - DEBUG - Already followed user: murapadev. Skipping.
+2025-11-19 00:53:55,178 - DEBUG - Already followed user: Hantan1080. Skipping.
+2025-11-19 00:53:55,178 - DEBUG - Already followed user: Hackinet. Skipping.
+2025-11-19 00:53:55,178 - DEBUG - Already followed user: Luukogood. Skipping.
+2025-11-19 00:53:55,178 - DEBUG - Already followed user: CelaDaniel. Skipping.
+2025-11-19 00:53:55,178 - DEBUG - Already followed user: ThomasHWeb. Skipping.
+2025-11-19 00:53:55,178 - DEBUG - Already followed user: paaak. Skipping.
+2025-11-19 00:53:55,178 - DEBUG - Already followed user: master-chain. Skipping.
+2025-11-19 00:53:55,178 - DEBUG - Already followed user: dbunt1tled. Skipping.
+2025-11-19 00:53:55,178 - DEBUG - Already followed user: medmek. Skipping.
+2025-11-19 00:53:55,178 - DEBUG - Already followed user: Hajjouz. Skipping.
+2025-11-19 00:53:55,178 - DEBUG - Already followed user: IDouble. Skipping.
+2025-11-19 00:53:55,178 - DEBUG - Already followed user: djvelimir. Skipping.
+2025-11-19 00:53:55,178 - DEBUG - Already followed user: guevaraStian. Skipping.
+2025-11-19 00:53:55,178 - DEBUG - Already followed user: WaRtr0. Skipping.
+2025-11-19 00:53:55,178 - DEBUG - Already followed user: visualGravitySense. Skipping.
+2025-11-19 00:53:55,179 - DEBUG - Already followed user: sungeer. Skipping.
+2025-11-19 00:53:55,179 - DEBUG - Already followed user: Jackhuang166. Skipping.
+2025-11-19 00:53:55,179 - DEBUG - Already followed user: weiquan98. Skipping.
+2025-11-19 00:53:55,179 - DEBUG - Already followed user: giladfuchs. Skipping.
+2025-11-19 00:53:55,179 - DEBUG - Already followed user: IshmamAbir. Skipping.
+2025-11-19 00:53:55,179 - DEBUG - Already followed user: Connor9994. Skipping.
+2025-11-19 00:53:55,179 - DEBUG - Already followed user: domx4q. Skipping.
+2025-11-19 00:53:55,179 - DEBUG - Already followed user: jackciw. Skipping.
+2025-11-19 00:53:55,179 - DEBUG - Already followed user: standardgalactic. Skipping.
+2025-11-19 00:53:55,179 - DEBUG - Already followed user: sandibrrm. Skipping.
+2025-11-19 00:53:55,179 - DEBUG - Already followed user: LuisFillipe1. Skipping.
+2025-11-19 00:53:55,179 - DEBUG - Already followed user: AchrafReyani. Skipping.
+2025-11-19 00:53:55,179 - DEBUG - Already followed user: nstrmx. Skipping.
+2025-11-19 00:53:55,179 - DEBUG - Already followed user: Kos-M. Skipping.
+2025-11-19 00:53:55,179 - DEBUG - Already followed user: jfullstackdev. Skipping.
+2025-11-19 00:53:55,179 - DEBUG - Already followed user: iVGeek. Skipping.
+2025-11-19 00:53:55,179 - DEBUG - Already followed user: mohammadnabia. Skipping.
+2025-11-19 00:53:55,179 - DEBUG - Already followed user: howlily. Skipping.
+2025-11-19 00:53:55,179 - DEBUG - Already followed user: cerenyilmazjinx. Skipping.
+2025-11-19 00:53:55,179 - DEBUG - Already followed user: BEPb. Skipping.
+2025-11-19 00:53:55,179 - DEBUG - Already followed user: oluiscabral. Skipping.
+2025-11-19 00:53:55,179 - DEBUG - Already followed user: emilycodestar. Skipping.
+2025-11-19 00:53:55,179 - DEBUG - Already followed user: ivasik-k7. Skipping.
+2025-11-19 00:53:55,179 - DEBUG - Already followed user: marcmotta. Skipping.
+2025-11-19 00:53:55,179 - DEBUG - Already followed user: aantoooon. Skipping.
+2025-11-19 00:53:55,179 - DEBUG - Already followed user: hajigur69. Skipping.
+2025-11-19 00:53:55,179 - DEBUG - Already followed user: VictoriaCabirta. Skipping.
+2025-11-19 00:53:55,179 - DEBUG - Already followed user: CHUNG-HAO. Skipping.
+2025-11-19 00:53:55,179 - DEBUG - Already followed user: mainstar123. Skipping.
+2025-11-19 00:53:55,179 - DEBUG - Already followed user: JohnMwendwa. Skipping.
+2025-11-19 00:53:55,179 - DEBUG - Already followed user: ramazancetinkaya. Skipping.
+2025-11-19 00:53:55,179 - DEBUG - Already followed user: OftenUser. Skipping.
+2025-11-19 00:53:55,179 - DEBUG - Already followed user: mohammadhasanii. Skipping.
+2025-11-19 00:53:55,179 - DEBUG - Already followed user: mbitujames. Skipping.
+2025-11-19 00:53:55,179 - DEBUG - Already followed user: helallao. Skipping.
+2025-11-19 00:53:55,179 - DEBUG - Already followed user: AliAoun. Skipping.
+2025-11-19 00:53:55,179 - DEBUG - Already followed user: thisalireza. Skipping.
+2025-11-19 00:53:55,179 - DEBUG - Already followed user: LoxAtlis. Skipping.
+2025-11-19 00:53:55,180 - DEBUG - Already followed user: Jailtonfonseca. Skipping.
+2025-11-19 00:53:55,180 - DEBUG - Already followed user: seckinyasar. Skipping.
+2025-11-19 00:53:55,180 - DEBUG - Already followed user: NazmusSayad. Skipping.
+2025-11-19 00:53:55,180 - DEBUG - Already followed user: shinbatsu. Skipping.
+2025-11-19 00:53:55,180 - DEBUG - Already followed user: Liuboshenko. Skipping.
+2025-11-19 00:53:55,180 - DEBUG - Already followed user: Cre4T3Tiv3. Skipping.
+2025-11-19 00:53:55,180 - DEBUG - Already followed user: Davidevlops. Skipping.
+2025-11-19 00:53:55,180 - DEBUG - Already followed user: ezozu. Skipping.
+2025-11-19 00:53:55,180 - DEBUG - Already followed user: BamdadTabari. Skipping.
+2025-11-19 00:53:55,180 - DEBUG - Already followed user: cgrundman. Skipping.
+2025-11-19 00:53:55,180 - DEBUG - Already followed user: nfterrax. Skipping.
+2025-11-19 00:53:55,180 - DEBUG - Already followed user: ludo53. Skipping.
+2025-11-19 00:53:55,180 - DEBUG - Already followed user: heinodendal. Skipping.
+2025-11-19 00:53:55,180 - DEBUG - Already followed user: elifirinci. Skipping.
+2025-11-19 00:53:55,180 - DEBUG - Already followed user: sabbir-noyon. Skipping.
+2025-11-19 00:53:55,180 - DEBUG - Already followed user: Nima-Mollaei. Skipping.
+2025-11-19 00:53:55,180 - DEBUG - Already followed user: apurva313. Skipping.
+2025-11-19 00:53:55,180 - DEBUG - Already followed user: kyiroywops. Skipping.
+2025-11-19 00:53:55,180 - DEBUG - Already followed user: vokrob. Skipping.
+2025-11-19 00:53:55,180 - DEBUG - Already followed user: THEHARSHALCHAUDHARI. Skipping.
+2025-11-19 00:53:55,180 - DEBUG - Already followed user: nimakian. Skipping.
+2025-11-19 00:53:55,180 - DEBUG - Already followed user: iamapuneet. Skipping.
+2025-11-19 00:53:55,180 - DEBUG - Already followed user: Suhaib3100. Skipping.
+2025-11-19 00:53:55,180 - DEBUG - Already followed user: shahriar0999. Skipping.
+2025-11-19 00:53:55,180 - DEBUG - Already followed user: souvikrana17. Skipping.
+2025-11-19 00:53:55,180 - DEBUG - Already followed user: DIMFLIX. Skipping.
+2025-11-19 00:53:55,180 - DEBUG - Already followed user: EminHaziyev. Skipping.
+2025-11-19 00:53:55,180 - DEBUG - Already followed user: laurindoisaac. Skipping.
+2025-11-19 00:53:55,180 - DEBUG - Already followed user: Motaman-M. Skipping.
+2025-11-19 00:53:55,180 - DEBUG - Already followed user: motanelson. Skipping.
+2025-11-19 00:53:55,180 - DEBUG - Already followed user: cepseu1. Skipping.
+2025-11-19 00:53:55,268 - INFO - Rate Limit - Remaining: 4997, Reset at: 2025-11-19 00:55:53
+2025-11-19 00:53:55,269 - INFO - Fetching followers from: https://api.github.com/users/aelmizeb/followers?per_page=100&page=2
+2025-11-19 00:53:55,376 - DEBUG - Number of followers fetched: 100
+2025-11-19 00:53:55,376 - INFO - Fetched 100 followers on page 2.
+2025-11-19 00:53:55,376 - INFO - Sleeping for 5 seconds before following users.
+2025-11-19 00:54:00,381 - DEBUG - Already followed user: Mubashir12392. Skipping.
+2025-11-19 00:54:00,381 - DEBUG - Already followed user: K1rsN7. Skipping.
+2025-11-19 00:54:00,381 - DEBUG - Already followed user: MatthewMacri. Skipping.
+2025-11-19 00:54:00,381 - DEBUG - Already followed user: S4IL21. Skipping.
+2025-11-19 00:54:00,381 - DEBUG - Already followed user: RafalW3bCraft. Skipping.
+2025-11-19 00:54:00,381 - DEBUG - Already followed user: phntmzn. Skipping.
+2025-11-19 00:54:00,381 - DEBUG - Already followed user: Willysc10. Skipping.
+2025-11-19 00:54:00,381 - DEBUG - Already followed user: otaviossousa. Skipping.
+2025-11-19 00:54:00,381 - DEBUG - Already followed user: 18KBlueApple. Skipping.
+2025-11-19 00:54:00,381 - DEBUG - Already followed user: rushprotocol. Skipping.
+2025-11-19 00:54:00,381 - DEBUG - Already followed user: potentialdev-web. Skipping.
+2025-11-19 00:54:00,381 - DEBUG - Already followed user: Laqrabti. Skipping.
+2025-11-19 00:54:00,381 - DEBUG - Already followed user: AhmadTigress. Skipping.
+2025-11-19 00:54:00,381 - DEBUG - Already followed user: B2Kumar03. Skipping.
+2025-11-19 00:54:00,381 - DEBUG - Already followed user: AmirPeyravan. Skipping.
+2025-11-19 00:54:00,381 - DEBUG - Already followed user: nuraisi. Skipping.
+2025-11-19 00:54:00,381 - DEBUG - Already followed user: marichu-kt. Skipping.
+2025-11-19 00:54:00,381 - DEBUG - Already followed user: ikramagix. Skipping.
+2025-11-19 00:54:00,381 - DEBUG - Already followed user: gaqx. Skipping.
+2025-11-19 00:54:00,381 - DEBUG - Already followed user: goShell3. Skipping.
+2025-11-19 00:54:00,381 - DEBUG - Already followed user: SalehAkramSifat. Skipping.
+2025-11-19 00:54:00,381 - DEBUG - Already followed user: mengnankkkk. Skipping.
+2025-11-19 00:54:00,381 - DEBUG - Already followed user: AImaniadev. Skipping.
+2025-11-19 00:54:00,381 - DEBUG - Already followed user: LakhiniVoshadee. Skipping.
+2025-11-19 00:54:00,381 - DEBUG - Already followed user: cfrBernard. Skipping.
+2025-11-19 00:54:00,381 - DEBUG - Already followed user: amad3i. Skipping.
+2025-11-19 00:54:00,381 - DEBUG - Already followed user: Arison99. Skipping.
+2025-11-19 00:54:00,381 - DEBUG - Already followed user: abdulrhmansalama. Skipping.
+2025-11-19 00:54:00,381 - DEBUG - Already followed user: GitHub7667. Skipping.
+2025-11-19 00:54:00,381 - DEBUG - Already followed user: DevNinja08. Skipping.
+2025-11-19 00:54:00,382 - DEBUG - Already followed user: talrejasahil4994. Skipping.
+2025-11-19 00:54:00,382 - DEBUG - Already followed user: kiranShamsHere. Skipping.
+2025-11-19 00:54:00,382 - DEBUG - Already followed user: Iankulani. Skipping.
+2025-11-19 00:54:00,382 - DEBUG - Already followed user: BhagwaniVishi. Skipping.
+2025-11-19 00:54:00,382 - DEBUG - Already followed user: aridepai17. Skipping.
+2025-11-19 00:54:00,382 - DEBUG - Already followed user: Mohsen-malekifard. Skipping.
+2025-11-19 00:54:00,382 - DEBUG - Already followed user: 20essentials. Skipping.
+2025-11-19 00:54:00,382 - DEBUG - Already followed user: Md-Mubin. Skipping.
+2025-11-19 00:54:00,382 - DEBUG - Already followed user: abressiddique. Skipping.
+2025-11-19 00:54:00,382 - DEBUG - Already followed user: JawherKl. Skipping.
+2025-11-19 00:54:00,382 - DEBUG - Already followed user: michaeIwheeIer. Skipping.
+2025-11-19 00:54:00,382 - DEBUG - Already followed user: Ravi-Dahiya-00. Skipping.
+2025-11-19 00:54:00,382 - DEBUG - Already followed user: thornebaker. Skipping.
+2025-11-19 00:54:00,382 - DEBUG - Already followed user: nikhilpatidar01. Skipping.
+2025-11-19 00:54:00,382 - DEBUG - Already followed user: codeXdanyal. Skipping.
+2025-11-19 00:54:00,382 - DEBUG - Already followed user: JOELNATHAN544. Skipping.
+2025-11-19 00:54:00,382 - DEBUG - Already followed user: keen71126. Skipping.
+2025-11-19 00:54:00,382 - DEBUG - Already followed user: pouryaPKGit. Skipping.
+2025-11-19 00:54:00,382 - DEBUG - Already followed user: daniel149afonso. Skipping.
+2025-11-19 00:54:00,382 - DEBUG - Already followed user: MllRAGE. Skipping.
+2025-11-19 00:54:00,382 - DEBUG - Already followed user: MdShawonForazi. Skipping.
+2025-11-19 00:54:00,382 - DEBUG - Already followed user: Muhammad-qureshi1. Skipping.
+2025-11-19 00:54:00,382 - DEBUG - Already followed user: JoseMariaAlarconArenas. Skipping.
+2025-11-19 00:54:00,382 - DEBUG - Already followed user: vimal0156. Skipping.
+2025-11-19 00:54:00,382 - DEBUG - Already followed user: syedbilalalam1. Skipping.
+2025-11-19 00:54:00,382 - DEBUG - Already followed user: Ayokanmi-Adejola. Skipping.
+2025-11-19 00:54:00,382 - DEBUG - Already followed user: ngsnethawarya. Skipping.
+2025-11-19 00:54:00,382 - DEBUG - Already followed user: MuratKomurcu1. Skipping.
+2025-11-19 00:54:00,382 - DEBUG - Already followed user: TechLeon001. Skipping.
+2025-11-19 00:54:00,382 - DEBUG - Already followed user: howls-moving-castle. Skipping.
+2025-11-19 00:54:00,382 - INFO - Attempting to follow user: lovehiccup
+2025-11-19 00:54:00,543 - INFO - Successfully followed user: lovehiccup
+2025-11-19 00:54:00,544 - DEBUG - Appended user lovehiccup to followers.txt.
+2025-11-19 00:54:00,545 - INFO - Follower counter updated: 337
+2025-11-19 00:54:00,545 - INFO - Sleeping for 11.13 seconds before the next follow.
+2025-11-19 00:54:11,682 - DEBUG - Already followed user: techEdge3030. Skipping.
+2025-11-19 00:54:11,682 - DEBUG - Already followed user: Nayeem0011. Skipping.
+2025-11-19 00:54:11,682 - DEBUG - Already followed user: Twizter01. Skipping.
+2025-11-19 00:54:11,682 - DEBUG - Already followed user: buddy0323. Skipping.
+2025-11-19 00:54:11,682 - DEBUG - Already followed user: Piyush64-bit. Skipping.
+2025-11-19 00:54:11,682 - DEBUG - Already followed user: 156afl. Skipping.
+2025-11-19 00:54:11,682 - DEBUG - Already followed user: d3v1sh. Skipping.
+2025-11-19 00:54:11,682 - DEBUG - Already followed user: yosuke-kuroki. Skipping.
+2025-11-19 00:54:11,682 - DEBUG - Already followed user: nmbetancur. Skipping.
+2025-11-19 00:54:11,682 - DEBUG - Already followed user: ZPIIDR. Skipping.
+2025-11-19 00:54:11,682 - DEBUG - Already followed user: submitaitools. Skipping.
+2025-11-19 00:54:11,682 - DEBUG - Already followed user: floriant3. Skipping.
+2025-11-19 00:54:11,682 - DEBUG - Already followed user: Lyne6666. Skipping.
+2025-11-19 00:54:11,682 - DEBUG - Already followed user: nafiul-afk. Skipping.
+2025-11-19 00:54:11,683 - DEBUG - Already followed user: ShiningRocket. Skipping.
+2025-11-19 00:54:11,683 - DEBUG - Already followed user: RlCK-SANCHEZ. Skipping.
+2025-11-19 00:54:11,683 - DEBUG - Already followed user: Noori-Senior. Skipping.
+2025-11-19 00:54:11,683 - DEBUG - Already followed user: Dev-Mania1988. Skipping.
+2025-11-19 00:54:11,683 - DEBUG - Already followed user: BOYABOY999. Skipping.
+2025-11-19 00:54:11,683 - DEBUG - Already followed user: NOUHABL. Skipping.
+2025-11-19 00:54:11,683 - DEBUG - Already followed user: RamaAditya49. Skipping.
+2025-11-19 00:54:11,683 - DEBUG - Already followed user: constellation-infinity. Skipping.
+2025-11-19 00:54:11,683 - DEBUG - Already followed user: rosem-coder. Skipping.
+2025-11-19 00:54:11,683 - DEBUG - Already followed user: XO-Roham. Skipping.
+2025-11-19 00:54:11,683 - DEBUG - Already followed user: wetmet. Skipping.
+2025-11-19 00:54:11,683 - DEBUG - Already followed user: sezindartar. Skipping.
+2025-11-19 00:54:11,683 - DEBUG - Already followed user: NovaNoodle7. Skipping.
+2025-11-19 00:54:11,683 - DEBUG - Already followed user: rexxdeev. Skipping.
+2025-11-19 00:54:11,683 - DEBUG - Already followed user: lrepo52. Skipping.
+2025-11-19 00:54:11,683 - DEBUG - Already followed user: uhsr. Skipping.
+2025-11-19 00:54:11,683 - DEBUG - Already followed user: muichirox. Skipping.
+2025-11-19 00:54:11,683 - DEBUG - Already followed user: 1minds3t. Skipping.
+2025-11-19 00:54:11,683 - DEBUG - Already followed user: runner28-code. Skipping.
+2025-11-19 00:54:11,683 - DEBUG - Already followed user: admiralcarry-byte. Skipping.
+2025-11-19 00:54:11,683 - DEBUG - Already followed user: KabeloM13. Skipping.
+2025-11-19 00:54:11,683 - DEBUG - Already followed user: Lyche6666. Skipping.
+2025-11-19 00:54:11,683 - DEBUG - Already followed user: sphinxzerd. Skipping.
+2025-11-19 00:54:11,683 - DEBUG - Already followed user: nikecodedev. Skipping.
+2025-11-19 00:54:11,683 - DEBUG - Already followed user: jahidcoder. Skipping.
+2025-11-19 00:54:11,786 - INFO - Rate Limit - Remaining: 4995, Reset at: 2025-11-19 00:55:53
+2025-11-19 00:54:11,787 - INFO - Fetching followers from: https://api.github.com/users/aelmizeb/followers?per_page=100&page=3
+2025-11-19 00:54:11,887 - DEBUG - Number of followers fetched: 5
+2025-11-19 00:54:11,887 - INFO - Fetched 5 followers on page 3.
+2025-11-19 00:54:11,887 - INFO - Sleeping for 5 seconds before following users.
+2025-11-19 00:54:16,892 - DEBUG - Already followed user: ankitaaryal. Skipping.
+2025-11-19 00:54:16,892 - DEBUG - Already followed user: HATAKE-KAKASHl. Skipping.
+2025-11-19 00:54:16,892 - DEBUG - Already followed user: hoffhannisyan. Skipping.
+2025-11-19 00:54:16,892 - DEBUG - Already followed user: weitereigh. Skipping.
+2025-11-19 00:54:16,892 - DEBUG - Already followed user: demaagro. Skipping.
+2025-11-19 00:54:16,989 - INFO - Rate Limit - Remaining: 4994, Reset at: 2025-11-19 00:55:53
+2025-11-19 00:54:16,990 - INFO - Fetching followers from: https://api.github.com/users/aelmizeb/followers?per_page=100&page=4
+2025-11-19 00:54:17,085 - DEBUG - Number of followers fetched: 0
+2025-11-19 00:54:17,085 - INFO - No more followers to process. Exiting.
+2025-11-19 00:54:17,085 - INFO - Follower counter updated: 337
+2025-11-19 00:54:17,085 - INFO - 
+Following users from your follower list is done! Total followers fetched: 205, Total followers followed: 337
