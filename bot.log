@@ -52465,3 +52465,363 @@ Following users from your follower list is done! Total followers fetched: 279, T
 2026-02-10 01:22:57,007 - INFO - Follower counter updated: 498
 2026-02-10 01:22:57,007 - INFO - 
 Following users from your follower list is done! Total followers fetched: 281, Total followers followed: 498
+2026-02-11 01:20:29,405 - INFO - Hi! I am GitHub Follower Bot.
+2026-02-11 01:20:29,405 - INFO - Letting you follow all your followers!
+2026-02-11 01:20:29,405 - INFO - Starting to fetch your follower lists...
+
+2026-02-11 01:20:29,406 - INFO - Loaded 498 already followed users.
+2026-02-11 01:20:29,406 - INFO - Processing all followers without resume.
+2026-02-11 01:20:29,406 - INFO - Starting from page: 1
+2026-02-11 01:20:29,406 - INFO - Current follower counter: 498
+2026-02-11 01:20:29,594 - INFO - Rate Limit - Remaining: 5000, Reset at: 2026-02-11 02:20:29
+2026-02-11 01:20:29,595 - INFO - Fetching followers from: https://api.github.com/users/aelmizeb/followers?per_page=100&page=1
+2026-02-11 01:20:29,787 - DEBUG - Number of followers fetched: 100
+2026-02-11 01:20:29,787 - INFO - Fetched 100 followers on page 1.
+2026-02-11 01:20:29,787 - INFO - Sleeping for 5 seconds before following users.
+2026-02-11 01:20:34,792 - DEBUG - Already followed user: KyubinoKitsune-ace. Skipping.
+2026-02-11 01:20:34,792 - DEBUG - Already followed user: levonk. Skipping.
+2026-02-11 01:20:34,792 - DEBUG - Already followed user: peterruler. Skipping.
+2026-02-11 01:20:34,792 - DEBUG - Already followed user: slavaGanzin. Skipping.
+2026-02-11 01:20:34,792 - DEBUG - Already followed user: kenjinote. Skipping.
+2026-02-11 01:20:34,792 - DEBUG - Already followed user: tech4xstar. Skipping.
+2026-02-11 01:20:34,792 - DEBUG - Already followed user: sarkarshuvojit. Skipping.
+2026-02-11 01:20:34,792 - DEBUG - Already followed user: unhappychoice. Skipping.
+2026-02-11 01:20:34,792 - DEBUG - Already followed user: luckchain777. Skipping.
+2026-02-11 01:20:34,792 - DEBUG - Already followed user: gamemann. Skipping.
+2026-02-11 01:20:34,792 - DEBUG - Already followed user: riseansmal. Skipping.
+2026-02-11 01:20:34,793 - DEBUG - Already followed user: seehiong. Skipping.
+2026-02-11 01:20:34,793 - DEBUG - Already followed user: manman4. Skipping.
+2026-02-11 01:20:34,793 - DEBUG - Already followed user: KylerCondran. Skipping.
+2026-02-11 01:20:34,793 - DEBUG - Already followed user: ZhuChenn. Skipping.
+2026-02-11 01:20:34,793 - DEBUG - Already followed user: Elbagoury. Skipping.
+2026-02-11 01:20:34,793 - DEBUG - Already followed user: murapadev. Skipping.
+2026-02-11 01:20:34,793 - DEBUG - Already followed user: tetref. Skipping.
+2026-02-11 01:20:34,793 - DEBUG - Already followed user: Hantan1080. Skipping.
+2026-02-11 01:20:34,793 - DEBUG - Already followed user: budaivisita. Skipping.
+2026-02-11 01:20:34,793 - DEBUG - Already followed user: Luukogood. Skipping.
+2026-02-11 01:20:34,793 - DEBUG - Already followed user: CelaDaniel. Skipping.
+2026-02-11 01:20:34,793 - DEBUG - Already followed user: ThomasHWeb. Skipping.
+2026-02-11 01:20:34,793 - DEBUG - Already followed user: paaak. Skipping.
+2026-02-11 01:20:34,793 - DEBUG - Already followed user: chain-m8r. Skipping.
+2026-02-11 01:20:34,793 - DEBUG - Already followed user: dbunt1tled. Skipping.
+2026-02-11 01:20:34,793 - DEBUG - Already followed user: medmek. Skipping.
+2026-02-11 01:20:34,793 - DEBUG - Already followed user: Hajjouz. Skipping.
+2026-02-11 01:20:34,793 - DEBUG - Already followed user: IDouble. Skipping.
+2026-02-11 01:20:34,793 - DEBUG - Already followed user: ZainJavaid. Skipping.
+2026-02-11 01:20:34,793 - DEBUG - Already followed user: djvelimir. Skipping.
+2026-02-11 01:20:34,793 - DEBUG - Already followed user: guevaraStian. Skipping.
+2026-02-11 01:20:34,793 - DEBUG - Already followed user: WaRtr0. Skipping.
+2026-02-11 01:20:34,793 - DEBUG - Already followed user: visualGravitySense. Skipping.
+2026-02-11 01:20:34,793 - DEBUG - Already followed user: jelspace. Skipping.
+2026-02-11 01:20:34,793 - DEBUG - Already followed user: garik100. Skipping.
+2026-02-11 01:20:34,793 - DEBUG - Already followed user: weiquan98. Skipping.
+2026-02-11 01:20:34,793 - DEBUG - Already followed user: luukogod. Skipping.
+2026-02-11 01:20:34,793 - DEBUG - Already followed user: Davidjos03. Skipping.
+2026-02-11 01:20:34,793 - DEBUG - Already followed user: IshmamAbir. Skipping.
+2026-02-11 01:20:34,793 - DEBUG - Already followed user: ai-28. Skipping.
+2026-02-11 01:20:34,793 - DEBUG - Already followed user: Connor9994. Skipping.
+2026-02-11 01:20:34,793 - DEBUG - Already followed user: domx4q. Skipping.
+2026-02-11 01:20:34,793 - DEBUG - Already followed user: jackciw. Skipping.
+2026-02-11 01:20:34,793 - DEBUG - Already followed user: 4F71. Skipping.
+2026-02-11 01:20:34,793 - INFO - Attempting to follow user: eveuies
+2026-02-11 01:20:35,107 - INFO - Successfully followed user: eveuies
+2026-02-11 01:20:35,108 - DEBUG - Appended user eveuies to followers.txt.
+2026-02-11 01:20:35,108 - INFO - Follower counter updated: 499
+2026-02-11 01:20:35,108 - INFO - Sleeping for 14.97 seconds before the next follow.
+2026-02-11 01:20:50,089 - DEBUG - Already followed user: standardgalactic. Skipping.
+2026-02-11 01:20:50,089 - DEBUG - Already followed user: sandibrrm. Skipping.
+2026-02-11 01:20:50,089 - DEBUG - Already followed user: AchrafReyani. Skipping.
+2026-02-11 01:20:50,089 - INFO - Attempting to follow user: kunwitch
+2026-02-11 01:20:50,326 - INFO - Successfully followed user: kunwitch
+2026-02-11 01:20:50,328 - DEBUG - Appended user kunwitch to followers.txt.
+2026-02-11 01:20:50,328 - INFO - Follower counter updated: 500
+2026-02-11 01:20:50,328 - INFO - Sleeping for 12.59 seconds before the next follow.
+2026-02-11 01:21:02,934 - DEBUG - Already followed user: nstrmx. Skipping.
+2026-02-11 01:21:02,934 - DEBUG - Already followed user: cleinvert. Skipping.
+2026-02-11 01:21:02,934 - DEBUG - Already followed user: Kos-M. Skipping.
+2026-02-11 01:21:02,934 - DEBUG - Already followed user: jfullstackdev. Skipping.
+2026-02-11 01:21:02,934 - DEBUG - Already followed user: iVGeek. Skipping.
+2026-02-11 01:21:02,934 - DEBUG - Already followed user: rynesix. Skipping.
+2026-02-11 01:21:02,934 - DEBUG - Already followed user: th3noryx. Skipping.
+2026-02-11 01:21:02,934 - INFO - Attempting to follow user: erenjugs
+2026-02-11 01:21:03,170 - INFO - Successfully followed user: erenjugs
+2026-02-11 01:21:03,171 - DEBUG - Appended user erenjugs to followers.txt.
+2026-02-11 01:21:03,171 - INFO - Follower counter updated: 501
+2026-02-11 01:21:03,171 - INFO - Sleeping for 11.51 seconds before the next follow.
+2026-02-11 01:21:14,690 - DEBUG - Already followed user: vasilirigels. Skipping.
+2026-02-11 01:21:14,690 - DEBUG - Already followed user: eGBang. Skipping.
+2026-02-11 01:21:14,690 - INFO - Attempting to follow user: sincostin
+2026-02-11 01:21:14,994 - INFO - Successfully followed user: sincostin
+2026-02-11 01:21:14,995 - DEBUG - Appended user sincostin to followers.txt.
+2026-02-11 01:21:14,995 - INFO - Follower counter updated: 502
+2026-02-11 01:21:14,995 - INFO - Sleeping for 10.67 seconds before the next follow.
+2026-02-11 01:21:25,680 - DEBUG - Already followed user: mohammadnabia. Skipping.
+2026-02-11 01:21:25,680 - DEBUG - Already followed user: dmitryravilov. Skipping.
+2026-02-11 01:21:25,680 - DEBUG - Already followed user: Ronaldo45rt. Skipping.
+2026-02-11 01:21:25,680 - DEBUG - Already followed user: szenled. Skipping.
+2026-02-11 01:21:25,681 - DEBUG - Already followed user: Mindlyss. Skipping.
+2026-02-11 01:21:25,681 - DEBUG - Already followed user: cerenyilmazjinx. Skipping.
+2026-02-11 01:21:25,681 - DEBUG - Already followed user: BEPb. Skipping.
+2026-02-11 01:21:25,681 - DEBUG - Already followed user: HafidIdrissi. Skipping.
+2026-02-11 01:21:25,681 - DEBUG - Already followed user: xedeline. Skipping.
+2026-02-11 01:21:25,681 - DEBUG - Already followed user: oluiscabral. Skipping.
+2026-02-11 01:21:25,681 - DEBUG - Already followed user: wenteris. Skipping.
+2026-02-11 01:21:25,681 - DEBUG - Already followed user: emilycodestar. Skipping.
+2026-02-11 01:21:25,681 - DEBUG - Already followed user: lycherys. Skipping.
+2026-02-11 01:21:25,681 - DEBUG - Already followed user: ivasik-k7. Skipping.
+2026-02-11 01:21:25,681 - DEBUG - Already followed user: sakuyaloli. Skipping.
+2026-02-11 01:21:25,681 - DEBUG - Already followed user: aantoooon. Skipping.
+2026-02-11 01:21:25,681 - DEBUG - Already followed user: albonidrizi. Skipping.
+2026-02-11 01:21:25,681 - DEBUG - Already followed user: hajigur69. Skipping.
+2026-02-11 01:21:25,681 - DEBUG - Already followed user: VictoriaCabirta. Skipping.
+2026-02-11 01:21:25,681 - DEBUG - Already followed user: CHUNG-HAO. Skipping.
+2026-02-11 01:21:25,681 - INFO - Attempting to follow user: zefflyn
+2026-02-11 01:21:25,895 - INFO - Successfully followed user: zefflyn
+2026-02-11 01:21:25,897 - DEBUG - Appended user zefflyn to followers.txt.
+2026-02-11 01:21:25,897 - INFO - Follower counter updated: 503
+2026-02-11 01:21:25,897 - INFO - Sleeping for 12.33 seconds before the next follow.
+2026-02-11 01:21:38,235 - DEBUG - Already followed user: hasan4224. Skipping.
+2026-02-11 01:21:38,235 - DEBUG - Already followed user: mainstar123. Skipping.
+2026-02-11 01:21:38,235 - DEBUG - Already followed user: JohnMwendwa. Skipping.
+2026-02-11 01:21:38,235 - DEBUG - Already followed user: ragibalasad. Skipping.
+2026-02-11 01:21:38,235 - DEBUG - Already followed user: ramazancetinkaya. Skipping.
+2026-02-11 01:21:38,235 - DEBUG - Already followed user: Geek-Cheth. Skipping.
+2026-02-11 01:21:38,235 - DEBUG - Already followed user: OftenUser. Skipping.
+2026-02-11 01:21:38,235 - DEBUG - Already followed user: mohammadhasanii. Skipping.
+2026-02-11 01:21:38,235 - DEBUG - Already followed user: mbitujames. Skipping.
+2026-02-11 01:21:38,235 - INFO - Attempting to follow user: lesterink
+2026-02-11 01:21:38,440 - INFO - Successfully followed user: lesterink
+2026-02-11 01:21:38,441 - DEBUG - Appended user lesterink to followers.txt.
+2026-02-11 01:21:38,442 - INFO - Follower counter updated: 504
+2026-02-11 01:21:38,442 - INFO - Sleeping for 10.73 seconds before the next follow.
+2026-02-11 01:21:49,182 - DEBUG - Already followed user: Carrington-dev. Skipping.
+2026-02-11 01:21:49,182 - DEBUG - Already followed user: thisalireza. Skipping.
+2026-02-11 01:21:49,182 - DEBUG - Already followed user: steph3nm. Skipping.
+2026-02-11 01:21:49,182 - DEBUG - Already followed user: bahattinyunus. Skipping.
+2026-02-11 01:21:49,182 - DEBUG - Already followed user: Jailtonfonseca. Skipping.
+2026-02-11 01:21:49,182 - DEBUG - Already followed user: Hstkj23. Skipping.
+2026-02-11 01:21:49,182 - DEBUG - Already followed user: NazmusSayad. Skipping.
+2026-02-11 01:21:49,182 - INFO - Attempting to follow user: frenetis
+2026-02-11 01:21:49,400 - INFO - Successfully followed user: frenetis
+2026-02-11 01:21:49,401 - DEBUG - Appended user frenetis to followers.txt.
+2026-02-11 01:21:49,402 - INFO - Follower counter updated: 505
+2026-02-11 01:21:49,402 - INFO - Sleeping for 10.36 seconds before the next follow.
+2026-02-11 01:21:59,947 - INFO - Rate Limit - Remaining: 4992, Reset at: 2026-02-11 02:20:29
+2026-02-11 01:21:59,948 - INFO - Fetching followers from: https://api.github.com/users/aelmizeb/followers?per_page=100&page=2
+2026-02-11 01:22:00,156 - DEBUG - Number of followers fetched: 100
+2026-02-11 01:22:00,156 - INFO - Fetched 100 followers on page 2.
+2026-02-11 01:22:00,156 - INFO - Sleeping for 5 seconds before following users.
+2026-02-11 01:22:05,161 - DEBUG - Already followed user: Liuboshenko. Skipping.
+2026-02-11 01:22:05,161 - DEBUG - Already followed user: Cre4T3Tiv3. Skipping.
+2026-02-11 01:22:05,161 - DEBUG - Already followed user: Davidevlops. Skipping.
+2026-02-11 01:22:05,161 - DEBUG - Already followed user: ezozu. Skipping.
+2026-02-11 01:22:05,161 - DEBUG - Already followed user: OHANA-WEB. Skipping.
+2026-02-11 01:22:05,161 - DEBUG - Already followed user: BamdadTabari. Skipping.
+2026-02-11 01:22:05,161 - DEBUG - Already followed user: cgrundman. Skipping.
+2026-02-11 01:22:05,161 - DEBUG - Already followed user: Blazt95. Skipping.
+2026-02-11 01:22:05,161 - DEBUG - Already followed user: ludo53. Skipping.
+2026-02-11 01:22:05,161 - DEBUG - Already followed user: heinodendal. Skipping.
+2026-02-11 01:22:05,161 - DEBUG - Already followed user: linuxtusX5. Skipping.
+2026-02-11 01:22:05,161 - DEBUG - Already followed user: elifirinci. Skipping.
+2026-02-11 01:22:05,161 - DEBUG - Already followed user: sabbir-noyon. Skipping.
+2026-02-11 01:22:05,161 - DEBUG - Already followed user: Nima-Mollaei. Skipping.
+2026-02-11 01:22:05,161 - DEBUG - Already followed user: apurva313. Skipping.
+2026-02-11 01:22:05,162 - DEBUG - Already followed user: kyiroywops. Skipping.
+2026-02-11 01:22:05,162 - DEBUG - Already followed user: m-bwela. Skipping.
+2026-02-11 01:22:05,162 - INFO - Attempting to follow user: goroses
+2026-02-11 01:22:05,406 - INFO - Successfully followed user: goroses
+2026-02-11 01:22:05,407 - DEBUG - Appended user goroses to followers.txt.
+2026-02-11 01:22:05,407 - INFO - Follower counter updated: 506
+2026-02-11 01:22:05,408 - INFO - Sleeping for 10.01 seconds before the next follow.
+2026-02-11 01:22:15,428 - DEBUG - Already followed user: nimakian. Skipping.
+2026-02-11 01:22:15,428 - DEBUG - Already followed user: iamapuneet. Skipping.
+2026-02-11 01:22:15,428 - INFO - Attempting to follow user: yumeriu
+2026-02-11 01:22:15,675 - INFO - Successfully followed user: yumeriu
+2026-02-11 01:22:15,676 - DEBUG - Appended user yumeriu to followers.txt.
+2026-02-11 01:22:15,676 - INFO - Follower counter updated: 507
+2026-02-11 01:22:15,676 - INFO - Sleeping for 10.22 seconds before the next follow.
+2026-02-11 01:22:25,906 - DEBUG - Already followed user: austinjgriffith. Skipping.
+2026-02-11 01:22:25,906 - DEBUG - Already followed user: U1000000000000. Skipping.
+2026-02-11 01:22:25,906 - DEBUG - Already followed user: shahriar0999. Skipping.
+2026-02-11 01:22:25,906 - DEBUG - Already followed user: souvikrana17. Skipping.
+2026-02-11 01:22:25,907 - DEBUG - Already followed user: DIMFLIX. Skipping.
+2026-02-11 01:22:25,907 - DEBUG - Already followed user: EminHaziyev. Skipping.
+2026-02-11 01:22:25,907 - DEBUG - Already followed user: CelaFlori. Skipping.
+2026-02-11 01:22:25,907 - DEBUG - Already followed user: gagaguguk. Skipping.
+2026-02-11 01:22:25,907 - DEBUG - Already followed user: laurindoisaac. Skipping.
+2026-02-11 01:22:25,907 - DEBUG - Already followed user: Motaman-M. Skipping.
+2026-02-11 01:22:25,907 - DEBUG - Already followed user: Seif-01. Skipping.
+2026-02-11 01:22:25,907 - DEBUG - Already followed user: motanelson. Skipping.
+2026-02-11 01:22:25,907 - DEBUG - Already followed user: cepseu1. Skipping.
+2026-02-11 01:22:25,907 - DEBUG - Already followed user: bolola777. Skipping.
+2026-02-11 01:22:25,907 - DEBUG - Already followed user: vardan444. Skipping.
+2026-02-11 01:22:25,907 - DEBUG - Already followed user: susiasa. Skipping.
+2026-02-11 01:22:25,907 - DEBUG - Already followed user: czerid. Skipping.
+2026-02-11 01:22:25,907 - DEBUG - Already followed user: Mubashir12392. Skipping.
+2026-02-11 01:22:25,907 - DEBUG - Already followed user: zeniofia. Skipping.
+2026-02-11 01:22:25,907 - DEBUG - Already followed user: ertugrulbgbn. Skipping.
+2026-02-11 01:22:25,907 - DEBUG - Already followed user: K1rsN7. Skipping.
+2026-02-11 01:22:25,907 - DEBUG - Already followed user: MatthewMacri. Skipping.
+2026-02-11 01:22:25,907 - DEBUG - Already followed user: S4IL21. Skipping.
+2026-02-11 01:22:25,907 - DEBUG - Already followed user: filipzekovich. Skipping.
+2026-02-11 01:22:25,907 - DEBUG - Already followed user: RafalW3bCraft. Skipping.
+2026-02-11 01:22:25,907 - DEBUG - Already followed user: phntmzn. Skipping.
+2026-02-11 01:22:25,907 - DEBUG - Already followed user: Willysc10. Skipping.
+2026-02-11 01:22:25,907 - DEBUG - Already followed user: otaviossousa. Skipping.
+2026-02-11 01:22:25,907 - DEBUG - Already followed user: taahabz. Skipping.
+2026-02-11 01:22:25,907 - DEBUG - Already followed user: 18KBlueApple. Skipping.
+2026-02-11 01:22:25,907 - DEBUG - Already followed user: lilbodo13. Skipping.
+2026-02-11 01:22:25,907 - DEBUG - Already followed user: DrParthaMajumder. Skipping.
+2026-02-11 01:22:25,907 - DEBUG - Already followed user: sunjoe508. Skipping.
+2026-02-11 01:22:25,907 - DEBUG - Already followed user: Mulandii. Skipping.
+2026-02-11 01:22:25,907 - DEBUG - Already followed user: IamDevDan. Skipping.
+2026-02-11 01:22:25,907 - DEBUG - Already followed user: Fellipemarcal. Skipping.
+2026-02-11 01:22:25,907 - DEBUG - Already followed user: potentialdev-web. Skipping.
+2026-02-11 01:22:25,908 - DEBUG - Already followed user: Laqrabti. Skipping.
+2026-02-11 01:22:25,908 - DEBUG - Already followed user: masonliiu. Skipping.
+2026-02-11 01:22:25,908 - DEBUG - Already followed user: samuelweb3. Skipping.
+2026-02-11 01:22:25,908 - DEBUG - Already followed user: AhmadTigress. Skipping.
+2026-02-11 01:22:25,908 - DEBUG - Already followed user: B2Kumar03. Skipping.
+2026-02-11 01:22:25,908 - DEBUG - Already followed user: AmirPeyravan. Skipping.
+2026-02-11 01:22:25,908 - DEBUG - Already followed user: nuraisi. Skipping.
+2026-02-11 01:22:25,908 - DEBUG - Already followed user: aertsimon90. Skipping.
+2026-02-11 01:22:25,908 - DEBUG - Already followed user: Chainsmoker23. Skipping.
+2026-02-11 01:22:25,908 - DEBUG - Already followed user: vegata099. Skipping.
+2026-02-11 01:22:25,908 - DEBUG - Already followed user: Azrorrrrr. Skipping.
+2026-02-11 01:22:25,908 - DEBUG - Already followed user: MENOT02. Skipping.
+2026-02-11 01:22:25,908 - DEBUG - Already followed user: marichu-kt. Skipping.
+2026-02-11 01:22:25,908 - DEBUG - Already followed user: ikramagix. Skipping.
+2026-02-11 01:22:25,908 - DEBUG - Already followed user: gaqx. Skipping.
+2026-02-11 01:22:25,908 - DEBUG - Already followed user: AnonimusShamshiAlex. Skipping.
+2026-02-11 01:22:25,908 - DEBUG - Already followed user: goShell3. Skipping.
+2026-02-11 01:22:25,908 - DEBUG - Already followed user: juicetreacly. Skipping.
+2026-02-11 01:22:25,908 - DEBUG - Already followed user: Babarali2k21. Skipping.
+2026-02-11 01:22:25,908 - DEBUG - Already followed user: SalehAkramSifat. Skipping.
+2026-02-11 01:22:25,908 - DEBUG - Already followed user: mengnankkkk. Skipping.
+2026-02-11 01:22:25,908 - DEBUG - Already followed user: Light00Side. Skipping.
+2026-02-11 01:22:25,908 - DEBUG - Already followed user: AImaniadev. Skipping.
+2026-02-11 01:22:25,908 - DEBUG - Already followed user: LakhiniVoshadee. Skipping.
+2026-02-11 01:22:25,908 - DEBUG - Already followed user: cfrBernard. Skipping.
+2026-02-11 01:22:25,908 - DEBUG - Already followed user: amad3i. Skipping.
+2026-02-11 01:22:25,908 - DEBUG - Already followed user: Arison99. Skipping.
+2026-02-11 01:22:25,908 - DEBUG - Already followed user: abdulrhmansalama. Skipping.
+2026-02-11 01:22:25,908 - DEBUG - Already followed user: nam-htran. Skipping.
+2026-02-11 01:22:25,908 - DEBUG - Already followed user: GitHub7667. Skipping.
+2026-02-11 01:22:25,908 - DEBUG - Already followed user: DevNinja08. Skipping.
+2026-02-11 01:22:25,908 - DEBUG - Already followed user: fahdsliman. Skipping.
+2026-02-11 01:22:25,908 - DEBUG - Already followed user: Ali-hey-0. Skipping.
+2026-02-11 01:22:25,908 - DEBUG - Already followed user: talrejasahil4994. Skipping.
+2026-02-11 01:22:25,908 - DEBUG - Already followed user: kiranShamsHere. Skipping.
+2026-02-11 01:22:25,908 - DEBUG - Already followed user: Iankulani. Skipping.
+2026-02-11 01:22:25,908 - DEBUG - Already followed user: BhagwaniVishi. Skipping.
+2026-02-11 01:22:25,908 - DEBUG - Already followed user: aridepai17. Skipping.
+2026-02-11 01:22:25,908 - DEBUG - Already followed user: 0Darkn. Skipping.
+2026-02-11 01:22:25,908 - DEBUG - Already followed user: Md-Mubin. Skipping.
+2026-02-11 01:22:25,909 - DEBUG - Already followed user: tldrwtf. Skipping.
+2026-02-11 01:22:25,909 - DEBUG - Already followed user: abressiddique. Skipping.
+2026-02-11 01:22:26,084 - INFO - Rate Limit - Remaining: 4989, Reset at: 2026-02-11 02:20:29
+2026-02-11 01:22:26,085 - INFO - Fetching followers from: https://api.github.com/users/aelmizeb/followers?per_page=100&page=3
+2026-02-11 01:22:26,286 - DEBUG - Number of followers fetched: 90
+2026-02-11 01:22:26,287 - INFO - Fetched 90 followers on page 3.
+2026-02-11 01:22:26,287 - INFO - Sleeping for 5 seconds before following users.
+2026-02-11 01:22:31,292 - DEBUG - Already followed user: 0xAdafang. Skipping.
+2026-02-11 01:22:31,292 - DEBUG - Already followed user: JawherKl. Skipping.
+2026-02-11 01:22:31,292 - DEBUG - Already followed user: S8Y. Skipping.
+2026-02-11 01:22:31,292 - DEBUG - Already followed user: michaeIwheeIer. Skipping.
+2026-02-11 01:22:31,292 - DEBUG - Already followed user: Ravi-Dahiya-00. Skipping.
+2026-02-11 01:22:31,292 - DEBUG - Already followed user: thornebaker. Skipping.
+2026-02-11 01:22:31,292 - DEBUG - Already followed user: mathisjs. Skipping.
+2026-02-11 01:22:31,292 - DEBUG - Already followed user: Illusivehacks. Skipping.
+2026-02-11 01:22:31,292 - DEBUG - Already followed user: nikhilpatidar01. Skipping.
+2026-02-11 01:22:31,292 - DEBUG - Already followed user: codeXdanyal. Skipping.
+2026-02-11 01:22:31,292 - DEBUG - Already followed user: novagad. Skipping.
+2026-02-11 01:22:31,292 - DEBUG - Already followed user: JOELNATHAN544. Skipping.
+2026-02-11 01:22:31,292 - DEBUG - Already followed user: pouryaPKGit. Skipping.
+2026-02-11 01:22:31,292 - DEBUG - Already followed user: daniel149afonso. Skipping.
+2026-02-11 01:22:31,292 - DEBUG - Already followed user: MatheusHenriqueh. Skipping.
+2026-02-11 01:22:31,292 - DEBUG - Already followed user: MllRAGE. Skipping.
+2026-02-11 01:22:31,292 - DEBUG - Already followed user: landry-some. Skipping.
+2026-02-11 01:22:31,292 - DEBUG - Already followed user: madhavgadge01. Skipping.
+2026-02-11 01:22:31,292 - DEBUG - Already followed user: MdShawonForazi. Skipping.
+2026-02-11 01:22:31,293 - DEBUG - Already followed user: Muhammad-qureshi1. Skipping.
+2026-02-11 01:22:31,293 - DEBUG - Already followed user: destroy-boys. Skipping.
+2026-02-11 01:22:31,293 - DEBUG - Already followed user: byxbe. Skipping.
+2026-02-11 01:22:31,293 - DEBUG - Already followed user: vimal0156. Skipping.
+2026-02-11 01:22:31,293 - DEBUG - Already followed user: syedbilalalam1. Skipping.
+2026-02-11 01:22:31,293 - DEBUG - Already followed user: COUNTRY-HUMANS. Skipping.
+2026-02-11 01:22:31,293 - DEBUG - Already followed user: Ayokanmi-Adejola. Skipping.
+2026-02-11 01:22:31,293 - DEBUG - Already followed user: irenerodriguezrod. Skipping.
+2026-02-11 01:22:31,293 - DEBUG - Already followed user: syaharip005. Skipping.
+2026-02-11 01:22:31,293 - DEBUG - Already followed user: ngsnethawarya. Skipping.
+2026-02-11 01:22:31,293 - DEBUG - Already followed user: MuratKomurcu1. Skipping.
+2026-02-11 01:22:31,293 - DEBUG - Already followed user: techspire0924. Skipping.
+2026-02-11 01:22:31,293 - DEBUG - Already followed user: TechLeon001. Skipping.
+2026-02-11 01:22:31,293 - DEBUG - Already followed user: howls-moving-castle. Skipping.
+2026-02-11 01:22:31,293 - DEBUG - Already followed user: lovehiccup. Skipping.
+2026-02-11 01:22:31,293 - DEBUG - Already followed user: techEdge3030. Skipping.
+2026-02-11 01:22:31,293 - DEBUG - Already followed user: Nayeem0011. Skipping.
+2026-02-11 01:22:31,293 - DEBUG - Already followed user: Twizter01. Skipping.
+2026-02-11 01:22:31,293 - DEBUG - Already followed user: eatsky1006. Skipping.
+2026-02-11 01:22:31,293 - DEBUG - Already followed user: frangelbarrera. Skipping.
+2026-02-11 01:22:31,293 - DEBUG - Already followed user: 156afl. Skipping.
+2026-02-11 01:22:31,293 - DEBUG - Already followed user: yosuke-kuroki. Skipping.
+2026-02-11 01:22:31,293 - DEBUG - Already followed user: nmbetancur. Skipping.
+2026-02-11 01:22:31,293 - DEBUG - Already followed user: ZPIIDR. Skipping.
+2026-02-11 01:22:31,293 - DEBUG - Already followed user: submitaitools. Skipping.
+2026-02-11 01:22:31,293 - DEBUG - Already followed user: floriant3. Skipping.
+2026-02-11 01:22:31,293 - DEBUG - Already followed user: xcontcom. Skipping.
+2026-02-11 01:22:31,293 - DEBUG - Already followed user: SparkNews00000. Skipping.
+2026-02-11 01:22:31,293 - DEBUG - Already followed user: Lyne6666. Skipping.
+2026-02-11 01:22:31,293 - DEBUG - Already followed user: nafiul-afk. Skipping.
+2026-02-11 01:22:31,293 - DEBUG - Already followed user: ShiningRocket. Skipping.
+2026-02-11 01:22:31,293 - DEBUG - Already followed user: RlCK-SANCHEZ. Skipping.
+2026-02-11 01:22:31,293 - DEBUG - Already followed user: Noori-Senior. Skipping.
+2026-02-11 01:22:31,293 - DEBUG - Already followed user: AnjaliPatel301. Skipping.
+2026-02-11 01:22:31,293 - DEBUG - Already followed user: Dev-Mania1988. Skipping.
+2026-02-11 01:22:31,293 - DEBUG - Already followed user: BOYABOY999. Skipping.
+2026-02-11 01:22:31,293 - DEBUG - Already followed user: NOUHABL. Skipping.
+2026-02-11 01:22:31,293 - DEBUG - Already followed user: RamaAditya49. Skipping.
+2026-02-11 01:22:31,293 - DEBUG - Already followed user: constellation-infinity. Skipping.
+2026-02-11 01:22:31,294 - DEBUG - Already followed user: rosem-coder. Skipping.
+2026-02-11 01:22:31,294 - DEBUG - Already followed user: XO-Roham. Skipping.
+2026-02-11 01:22:31,294 - DEBUG - Already followed user: wetmet. Skipping.
+2026-02-11 01:22:31,294 - DEBUG - Already followed user: sezindartar. Skipping.
+2026-02-11 01:22:31,294 - DEBUG - Already followed user: NovaNoodle7. Skipping.
+2026-02-11 01:22:31,294 - DEBUG - Already followed user: rexxdeev. Skipping.
+2026-02-11 01:22:31,294 - DEBUG - Already followed user: lrepo52. Skipping.
+2026-02-11 01:22:31,294 - DEBUG - Already followed user: uhsr. Skipping.
+2026-02-11 01:22:31,294 - DEBUG - Already followed user: REIJISAKAMAKI. Skipping.
+2026-02-11 01:22:31,294 - DEBUG - Already followed user: muichirox. Skipping.
+2026-02-11 01:22:31,294 - DEBUG - Already followed user: JohnAxel04. Skipping.
+2026-02-11 01:22:31,294 - DEBUG - Already followed user: 1minds3t. Skipping.
+2026-02-11 01:22:31,294 - DEBUG - Already followed user: runner28-code. Skipping.
+2026-02-11 01:22:31,294 - DEBUG - Already followed user: admiralcarry-byte. Skipping.
+2026-02-11 01:22:31,294 - DEBUG - Already followed user: KabeloM13. Skipping.
+2026-02-11 01:22:31,294 - DEBUG - Already followed user: Lyche6666. Skipping.
+2026-02-11 01:22:31,294 - DEBUG - Already followed user: sphinxzerd. Skipping.
+2026-02-11 01:22:31,294 - DEBUG - Already followed user: nikecodedev. Skipping.
+2026-02-11 01:22:31,294 - DEBUG - Already followed user: zombietfk. Skipping.
+2026-02-11 01:22:31,294 - DEBUG - Already followed user: nexthireconnect. Skipping.
+2026-02-11 01:22:31,294 - DEBUG - Already followed user: ankitaaryal. Skipping.
+2026-02-11 01:22:31,294 - DEBUG - Already followed user: KAKASHl-HATAKE. Skipping.
+2026-02-11 01:22:31,294 - DEBUG - Already followed user: es4kai. Skipping.
+2026-02-11 01:22:31,294 - INFO - Attempting to follow user: HysteriaWEB3
+2026-02-11 01:22:31,476 - INFO - Successfully followed user: HysteriaWEB3
+2026-02-11 01:22:31,478 - DEBUG - Appended user HysteriaWEB3 to followers.txt.
+2026-02-11 01:22:31,478 - INFO - Follower counter updated: 508
+2026-02-11 01:22:31,478 - INFO - Sleeping for 10.25 seconds before the next follow.
+2026-02-11 01:22:41,738 - DEBUG - Already followed user: joebtceth. Skipping.
+2026-02-11 01:22:41,738 - DEBUG - Already followed user: ephmo. Skipping.
+2026-02-11 01:22:41,738 - DEBUG - Already followed user: hwg-p. Skipping.
+2026-02-11 01:22:41,738 - DEBUG - Already followed user: chenE5M2. Skipping.
+2026-02-11 01:22:41,738 - DEBUG - Already followed user: IvanDevMars. Skipping.
+2026-02-11 01:22:41,738 - DEBUG - Already followed user: Charlie-M0rgan. Skipping.
+2026-02-11 01:22:41,738 - DEBUG - Already followed user: Badshah-CoderZ. Skipping.
+2026-02-11 01:22:41,738 - DEBUG - Already followed user: pohonisotlorigi. Skipping.
+2026-02-11 01:22:41,913 - INFO - Rate Limit - Remaining: 4987, Reset at: 2026-02-11 02:20:29
+2026-02-11 01:22:41,914 - INFO - Fetching followers from: https://api.github.com/users/aelmizeb/followers?per_page=100&page=4
+2026-02-11 01:22:42,093 - DEBUG - Number of followers fetched: 0
+2026-02-11 01:22:42,093 - INFO - No more followers to process. Exiting.
+2026-02-11 01:22:42,093 - INFO - Follower counter updated: 508
+2026-02-11 01:22:42,093 - INFO - 
+Following users from your follower list is done! Total followers fetched: 290, Total followers followed: 508
