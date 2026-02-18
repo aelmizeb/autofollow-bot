@@ -514,3 +514,4 @@ mwakidenis
 zkcryptweb
 vladmeeros
 kesect
+SolidityX-X
