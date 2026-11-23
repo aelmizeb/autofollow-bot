@@ -47,7 +47,7 @@
              ${{ runner.os }}-pipenv-
 
        - name: Install dependencies
-         run: pipenv install --deploy --ignore-pipfile
+         run: pipenv install --python $(which python)
 
        - name: Verify Pipenv Installation
          run: pipenv --version
